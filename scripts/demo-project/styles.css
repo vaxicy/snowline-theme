@@ -1,0 +1,26 @@
+:root {
+  --navy: #17293d;
+  --steel: #94b4c1;
+  --glacier: #35609a;
+  --tundra: #7c8266;
+  --frostbell: #898ac4;
+  --icefall: #97a3b0;
+  --frostpine: #319798;
+  --snow: #f8fafc;
+  --ink: #2a3440;
+}
+
+.snowline-card {
+  background: var(--snow);
+  border: 1px solid var(--steel);
+  border-radius: 16px;
+  color: var(--ink);
+  padding: 16px 20px;
+  box-shadow: 0 6px 20px rgba(23, 41, 61, 0.16);
+}
+
+.cold-rule {
+  background: linear-gradient(90deg, var(--navy), var(--glacier), var(--frostpine));
+  height: 4px;
+  border-radius: 999px;
+}

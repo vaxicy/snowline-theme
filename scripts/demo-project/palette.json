@@ -1,0 +1,14 @@
+{
+  "name": "Snowline",
+  "cuts": ["glacier", "tundra", "frostbell", "icefall", "fjord", "frostpine"],
+  "colors": {
+    "navy": "#17293D",
+    "steel": "#94B4C1",
+    "glacier": "#35609A",
+    "tundra": "#7C8266",
+    "frostbell": "#898AC4",
+    "icefall": "#97A3B0",
+    "frostpine": "#319798",
+    "snow": "#F8FAFC"
+  }
+}
