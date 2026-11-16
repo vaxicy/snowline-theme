@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/banner.png" alt="Snowline Theme — one snow line, six winter cuts" width="100%">
+<img src="assets/icon.png" alt="Snowline Theme logo — a snow-capped peak" width="160">
 
 # Snowline Theme
 
